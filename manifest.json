@@ -4,5 +4,5 @@
   "version": "1.0.0",
   "entry": "index.html",
   "description": "Birinchi sinov",
-  "permissions": []
+  "permissions": ["network"]
 }
