@@ -1,0 +1,8 @@
+{
+  "id": "com.dev.test",
+  "name": "Test App",
+  "version": "1.0.0",
+  "entry": "index.html",
+  "description": "Birinchi sinov",
+  "permissions": []
+}
